@@ -1,27 +1,39 @@
 h1 {
     color: yellow;
+    padding: 10px;
 }
 
 h2 {
     color: orange;
+    padding: 10px;
 }
 
 h3 {
     color: blue;
+    padding: 10px;
 }
 
 h4 {
     color: firebrick;
+    padding: 10px;
 }
 
 h5 {
     color: purple;
+    padding: 10px;
 }
 
 h6 {
     color: brown;
+    padding: 10px;
 }
 
 a {
     color: red;
+}
+
+.headings {
+    display: flex;
+    text-align: center;
+    
 }

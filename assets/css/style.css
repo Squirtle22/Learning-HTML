@@ -1,5 +1,5 @@
 h1 {
-    color: yellow;
+    color: blueS;
     padding: 10px;
 }
 
@@ -29,7 +29,8 @@ h6 {
 }
 
 a {
-    color: red;
+    color: purple;
+    padding: 20px;
 }
 
 .headings {

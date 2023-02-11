@@ -46,3 +46,7 @@ a {
 form {
     padding: auto;
 }
+
+.gray-element {
+    background-color: lightgray;
+}
